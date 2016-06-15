@@ -1,0 +1,1 @@
+prefix = fn prefix -> fn str -> "#{prefix} #{str}" end end
